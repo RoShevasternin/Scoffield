@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.PlinkoSlot100x" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+
+    <style name="Theme.PlinkoSlot100x" parent="Base.Theme.PlinkoSlot100x" />
+</resources>

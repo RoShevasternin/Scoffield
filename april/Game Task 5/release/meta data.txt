@@ -1,0 +1,5 @@
+alias: aisdne8nqwejwqeh
+pass:  iasd8jsdhgehyq
+
+policy: ---
+terms: ---

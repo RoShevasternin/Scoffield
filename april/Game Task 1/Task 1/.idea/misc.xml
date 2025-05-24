@@ -1,0 +1,58 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Application/Gambling/GamblingTest/app/src/main/res/drawable/splash.xml" value="0.21944444444444444" />
+        <entry key="..\:/Application/Gambling/GamblingTest/app/src/main/res/layout/fragment_webview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/drawable/splash.xml" value="0.1335" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/drawable/state_button_1.xml" value="0.1335" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/layout/fragment_game.xml" value="0.1" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/layout/fragment_menu.xml" value="0.22314814814814815" />
+        <entry key="..\:/Application/Gambling/Game 1xBet Betting/1xBet Betting/app/src/main/res/layout/fragment_webview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/drawable/button_click.xml" value="0.257" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/drawable/splash.xml" value="0.1" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/font/alfa_slab_one.xml" value="0.3046875" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/font/noto_sans.xml" value="0.3046875" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/layout/fragment_game.xml" value="0.136" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/layout/fragment_menu.xml" value="0.152" />
+        <entry key="..\:/Application/Gambling/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/layout/fragment_webview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/Game Online slots and casino Vulkan/Online slots and casino Vulkan/app/src/main/res/launcher/drawables/drawable-v24/ic_launcher_foreground.xml" value="0.1962962962962963" />
+        <entry key="..\:/Application/Gambling/Game Online slots and casino Vulkan/Online slots and casino Vulkan/app/src/main/res/launcher/drawables/drawable/ic_launcher_background.xml" value="0.1962962962962963" />
+        <entry key="..\:/Application/Gambling/Game Online slots and casino Vulkan/Online slots and casino Vulkan/app/src/main/res/launcher/mipmaps/mipmap-anydpi-v26/ic_launcher.xml" value="0.1962962962962963" />
+        <entry key="..\:/Application/Gambling/Game Online slots and casino Vulkan/Online slots and casino Vulkan/app/src/main/res/launcher/mipmaps/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1962962962962963" />
+        <entry key="..\:/Application/Gambling/Game PariStakeOnlineCasino/PariStakeOnlineCasino/app/src/main/res/drawable/splash.xml" value="0.19537037037037036" />
+        <entry key="..\:/Application/Gambling/Game PariStakeOnlineCasino/PariStakeOnlineCasino/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/Game PariStakeOnlineCasino/PariStakeOnlineCasino/app/src/main/res/layout/fragment_webview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game Online casino and stakes Most/OnlineCasinoMost/app/src/main/res/drawable/splash.xml" value="0.2365" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/drawable/state_autospin.xml" value="0.1795" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/drawable/state_spin.xml" value="0.1795" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/launcher/drawables/drawable-v24/ic_launcher_foreground.xml" value="0.217" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/launcher/mipmaps/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.217" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/layout/fragment_game.xml" value="0.176" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/layout/fragment_menu.xml" value="0.264" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/layout/fragment_webview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpSlot/PinUpSlot/app/src/main/res/layout/slot.xml" value="0.2" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpStudio/PinUpStudio/app/src/main/res/drawable/splash.xml" value="0.179" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpStudio/PinUpStudio/app/src/main/res/drawable/state_button_1.xml" value="0.179" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpStudio/PinUpStudio/app/src/main/res/layout/fragment_game.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Gambling/NonCompleted/Game PinUpStudio/PinUpStudio/app/src/main/res/layout/fragment_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Work Games/Game BigWinSlots777/BigWinSlots777/app/src/main/res/drawable/splash.xml" value="0.19537037037037036" />
+        <entry key="..\:/Application/Work Games/Game BigWinSlots777/BigWinSlots777/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Application/Work Games/Game KingSolomonSlots/KingSolomonSlots/app/src/main/res/drawable/splash.xml" value="0.17222222222222222" />
+        <entry key="..\:/Application/Work Games/Game KingSolomonSlots/KingSolomonSlots/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Application/Work Games/Game PinUp/PinUp/app/src/main/res/drawable/splash.xml" value="0.290625" />
+        <entry key="..\:/Application/Work Games/Game PinUp/PinUp/app/src/main/res/launcher/drawables/drawable-v24/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/Application/Work Games/Game PinUp/PinUp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

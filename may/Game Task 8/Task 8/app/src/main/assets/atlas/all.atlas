@@ -1,0 +1,89 @@
+all.png
+size: 729, 1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_d
+  rotate: false
+  xy: 1, 74
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+b_p
+  rotate: false
+  xy: 1, 225
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+blob
+  rotate: false
+  xy: 1, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+blu
+  rotate: false
+  xy: 67, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 199, 1
+  size: 529, 72
+  orig: 529, 72
+  offset: 0, 0
+  index: -1
+e_d
+  rotate: false
+  xy: 1, 376
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+e_p
+  rotate: false
+  xy: 1, 527
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+p_d
+  rotate: false
+  xy: 1, 678
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+p_p
+  rotate: false
+  xy: 1, 829
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+r_d
+  rotate: false
+  xy: 1, 980
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+r_p
+  rotate: false
+  xy: 1, 1131
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 133, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1

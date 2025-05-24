@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SweetBonanza" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:navigationBarColor">@color/black1</item>
+    </style>
+
+    <style name="Theme.SweetBonanza" parent="Base.Theme.SweetBonanza" />
+</resources>

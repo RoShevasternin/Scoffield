@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.fortunetiger.mystictrail.game.screens.menu.MenuFragment"
+        android:label="MenuFragment" >
+        <action
+            android:id="@+id/action_menuFragment_to_gameFragment"
+            app:destination="@id/gameFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.fortunetiger.mystictrail.game.GameFragment"
+        android:label="GameFragment" />
+
+    <fragment
+        android:id="@+id/webViewFragment"
+        android:name="com.fortunetiger.mystictrail.game.WebFragment"
+        android:label="WebViewFragment"/>
+
+</navigation>

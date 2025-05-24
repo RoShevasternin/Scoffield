@@ -1,0 +1,12 @@
+alias: saudasd7kjasjdbwqh
+pass:  lcxvdfs0asrdw
+
+alias: key0
+pass: ESZXCVFE
+
+
+
+Untitled.jks
+
+policy: ---
+terms: ---

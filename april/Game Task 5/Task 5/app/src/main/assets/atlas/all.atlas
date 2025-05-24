@@ -1,0 +1,19 @@
+all.png
+size: 201, 72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 1, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 67, 1
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1

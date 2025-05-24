@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PliFireworks" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/sky</item>
+        <item name="android:navigationBarColor">@color/sky</item>
+    </style>
+
+    <style name="Theme.PliFireworks" parent="Base.Theme.PliFireworks" />
+</resources>

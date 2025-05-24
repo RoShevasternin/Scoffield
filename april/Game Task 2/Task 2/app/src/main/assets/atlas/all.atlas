@@ -1,0 +1,12 @@
+all.png
+size: 330, 379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn
+  rotate: false
+  xy: 1, 1
+  size: 328, 377
+  orig: 328, 377
+  offset: 0, 0
+  index: -1

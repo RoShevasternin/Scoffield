@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.Task10" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.Task10" parent="Base.Theme.Task10"/>
+</resources>
