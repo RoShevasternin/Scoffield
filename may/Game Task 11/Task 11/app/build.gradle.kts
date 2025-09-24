@@ -71,7 +71,7 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.0")
     implementation("androidx.datastore:datastore-preferences:1.1.6")
 
-    val gdxVersion = "1.13.5"
+    val gdxVersion = "1.13.1"
     implementation("com.badlogicgames.gdx:gdx-backend-android:$gdxVersion")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a")

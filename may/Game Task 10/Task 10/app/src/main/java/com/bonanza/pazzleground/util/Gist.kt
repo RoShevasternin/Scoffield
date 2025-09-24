@@ -11,7 +11,7 @@ import kotlin.io.readBytes
 
 object Gist {
 
-    private const val URL_STRING = "https://gist.githubusercontent.com/nikaapps13/0bfeb51fd005ac77549ddf066f6000ea/raw/task10"
+    private const val URL_STRING = "https://gist.githubusercontent.com/nikaapps13/1a21dbfdec1b8d89a42687834e725e38/raw/task10"
 
     suspend fun getDataJson(): DataJSON? = withContext(Dispatchers.IO) {
         try {

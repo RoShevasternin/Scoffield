@@ -51,7 +51,7 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
 
     val coroutine = CoroutineScope(Dispatchers.Default)
 
-    val sharedPreferences: SharedPreferences = appContext.getSharedPreferences("Orham", MODE_PRIVATE)
+    val sharedPreferences: SharedPreferences = appContext.getSharedPreferences("Daram", MODE_PRIVATE)
 
     override fun create() {
         navigationManager = NavigationManager()
@@ -107,10 +107,10 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
         //GDX_GLOBAL_isGame = true
         //return
 
-        val path = sharedPreferences.getString("Manilla", "OHHHHHHHHHHH") ?: "OHHHHHHHHHHH"
+        val path = sharedPreferences.getString("popa", "aaa") ?: "aaa"
 
         try {
-            if (path == "OHHHHHHHHHHH") {
+            if (path == "aaa") {
                 coroutine.launch(Dispatchers.Main) {
                     val getJSON = withContext(Dispatchers.IO) { Gist.getDataJson() }
 

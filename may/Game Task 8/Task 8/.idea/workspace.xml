@@ -10,22 +10,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab0d472-58a3-467b-8a68-3cf0296a65e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../SASHKO/april/Game S-Task 1/S-Task 1/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SASHKO/april/Game S-Task 1/S-Task 1/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../SASHKO/april/Game S-Task 1/S-Task 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SASHKO/april/Game S-Task 1/S-Task 1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx-box2d.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx-box2d.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/arm64-v8a/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx-box2d.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx-box2d.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/armeabi-v7a/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86/libgdx-box2d.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86/libgdx-box2d.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86_64/libgdx-box2d.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86_64/libgdx-box2d.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86_64/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86_64/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/x86_64/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/x86_64/libgdx.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../release/meta data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../release/meta data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Game Task 9/Task 9/app/src/main/java/com/plinkray/ioosudmarine/game/GDXGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Game Task 9/Task 9/app/src/main/java/com/plinkray/ioosudmarine/game/GDXGame.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +87,7 @@
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -91,31 +100,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
-    &quot;ApkExportedModule&quot;: &quot;Task_8.app&quot;,
-    &quot;BundleExportedModule&quot;: &quot;Task_8.app&quot;,
-    &quot;ExportApk.ApkPathForTask_8.app&quot;: &quot;D:\\My_App_2025\\Scoffield\\may\\Game Task 8\\market&quot;,
-    &quot;ExportBundle.BundlePathForTask_8.app&quot;: &quot;D:\\My_App_2025\\Scoffield\\may\\Game Task 8\\market&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task 8 [signingReport].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My_App_2025/Scoffield/may/Game Task 8/Task 8&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;android.project.structure&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "ApkExportedModule": "Task_8.app",
+    "BundleExportedModule": "Task_8.app",
+    "ExportApk.ApkPathForTask_8.app": "D:\\My_App_2025\\Scoffield\\may\\Game Task 8\\market",
+    "ExportBundle.BundlePathForTask_8.app": "D:\\My_App_2025\\Scoffield\\may\\Game Task 8\\market",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.Task 8 [signingReport].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Scoffield/may/Game Task 8/Task 8",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "android.project.structure"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ExportApk.BuildVariants&quot;: [
-      &quot;release&quot;
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
     ]
   }
-}</component>
+}]]></component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Properties" />
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />

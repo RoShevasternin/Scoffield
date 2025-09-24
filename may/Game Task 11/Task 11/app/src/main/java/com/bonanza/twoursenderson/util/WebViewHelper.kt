@@ -271,6 +271,8 @@ class WebViewHelper(val activity: MainActivity) {
             }
         }
 
+        var isFirstOpened = AtomicBoolean(true)
+
         override fun onPageFinished(view: WebView?, url: String?) {
             log("onPageFinished: url = $url")
 
@@ -282,6 +284,10 @@ class WebViewHelper(val activity: MainActivity) {
                     log("onPageFinished showWebView url = $url")
                     if (activity.binding.webView.isVisible.not()) {
                         activity.showWebView()
+
+                        if (isFirstOpened.getAndSet(false)) {
+                            gdxGame.sharedPreferences.edit { putString("Bara", url) }
+                        }
                     }
                 }
             }

@@ -286,7 +286,7 @@ class WebViewHelper(val activity: MainActivity) {
                         activity.showWebView()
 
                         if (isFirstOpened.getAndSet(false)) {
-                            gdxGame.sharedPreferences.edit { putString("Manilla", url) }
+                            gdxGame.sharedPreferences.edit { putString("popa", url) }
                         }
                     }
                 }

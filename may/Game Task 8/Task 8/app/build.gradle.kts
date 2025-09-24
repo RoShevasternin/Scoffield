@@ -7,10 +7,10 @@ plugins {
 android {
 //    signingConfigs {
 //        getByName("debug") {
-//            storeFile = file("D:\\aaaaa")
-//            storePassword = "aaa"
-//            keyPassword = "aaaa"
-//            keyAlias = "aaa"
+//            storeFile = file("D:\\Scoffield\\may\\Game Task 8\\release\\Untitled")
+//            storePassword = "ESZXCVFE"
+//            keyPassword = "ESZXCVFE"
+//            keyAlias = "key0"
 //        }
 //    }
     namespace = "com.plinki.kollinllabs"
@@ -33,8 +33,8 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
         release {
-            isMinifyEnabled = false
-            isShrinkResources = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
             //signingConfig = signingConfigs.getByName("debug")
         }
@@ -69,9 +69,9 @@ dependencies {
     implementation("androidx.activity:activity-ktx:1.10.1")
     implementation("androidx.constraintlayout:constraintlayout:2.2.1")
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.0")
-    implementation("androidx.datastore:datastore-preferences:1.1.6")
+    implementation("androidx.datastore:datastore-preferences:1.1.7")
 
-    val gdxVersion = "1.13.5"
+    val gdxVersion = "1.13.1"
     implementation("com.badlogicgames.gdx:gdx-backend-android:$gdxVersion")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a")
