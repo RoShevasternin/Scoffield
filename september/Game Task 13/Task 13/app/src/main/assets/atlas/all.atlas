@@ -1,0 +1,61 @@
+all.png
+size: 436, 1255
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+menu
+  rotate: false
+  xy: 1, 1
+  size: 434, 797
+  orig: 434, 797
+  offset: 0, 0
+  index: -1
+muz_def
+  rotate: false
+  xy: 1, 799
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+muz_dis
+  rotate: false
+  xy: 134, 799
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+sound_def
+  rotate: false
+  xy: 267, 799
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+sound_dis
+  rotate: false
+  xy: 1, 932
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+sundec
+  rotate: false
+  xy: 134, 932
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+x_def
+  rotate: false
+  xy: 1, 1132
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+x_prs
+  rotate: false
+  xy: 124, 1132
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708477522597",
+    "project_id": "jogo-do-bicho-hot-up",
+    "storage_bucket": "jogo-do-bicho-hot-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708477522597:android:bd4152b635c4c03079f34c",
+        "android_client_info": {
+          "package_name": "jogo.dobicho.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9JTYa8BDsKmjDxu6XSzpcJQ7gFG8ZGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

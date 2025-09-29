@@ -1,0 +1,61 @@
+splash.png
+size: 1629, 1346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ass
+  rotate: false
+  xy: 647, 446
+  size: 799, 898
+  orig: 799, 898
+  offset: 0, 0
+  index: -1
+babochke
+  rotate: false
+  xy: 266, 93
+  size: 276, 277
+  orig: 276, 277
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 446
+  size: 381, 390
+  orig: 381, 390
+  offset: 0, 0
+  index: -1
+cock
+  rotate: false
+  xy: 385, 446
+  size: 260, 562
+  orig: 260, 562
+  offset: 0, 0
+  index: -1
+filatov
+  rotate: false
+  xy: 2, 2
+  size: 738, 32
+  orig: 738, 32
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 544, 93
+  size: 1083, 351
+  orig: 1083, 351
+  offset: 0, 0
+  index: -1
+karas
+  rotate: false
+  xy: 742, 2
+  size: 785, 89
+  orig: 785, 89
+  offset: 0, 0
+  index: -1
+monkey
+  rotate: false
+  xy: 2, 93
+  size: 262, 242
+  orig: 262, 242
+  offset: 0, 0
+  index: -1

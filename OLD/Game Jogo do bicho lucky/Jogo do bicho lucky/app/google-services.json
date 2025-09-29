@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039259785816",
+    "project_id": "jogo-do-bicho-lucky",
+    "storage_bucket": "jogo-do-bicho-lucky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039259785816:android:492e40ab3139790e60c82d",
+        "android_client_info": {
+          "package_name": "lucky.jogodobicho.fan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJB9rIcuFLgLCmc03HO0ECs7Ja7TJqsik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

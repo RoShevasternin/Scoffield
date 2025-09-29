@@ -1,0 +1,201 @@
+game.png
+size: 1899, 931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animal 1
+  rotate: false
+  xy: 839, 145
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 2
+  rotate: false
+  xy: 1101, 145
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 3
+  rotate: false
+  xy: 1363, 145
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 4
+  rotate: false
+  xy: 1625, 145
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 5
+  rotate: false
+  xy: 2, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 6
+  rotate: false
+  xy: 264, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 7
+  rotate: false
+  xy: 526, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 8
+  rotate: false
+  xy: 788, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+animal 9
+  rotate: false
+  xy: 1050, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+check_mark
+  rotate: false
+  xy: 597, 145
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: false
+  xy: 145, 145
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+direction_to_the_right
+  rotate: false
+  xy: 371, 145
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+flatter_background
+  rotate: false
+  xy: 2, 2
+  size: 599, 56
+  orig: 599, 56
+  offset: 0, 0
+  index: -1
+flatter_elipse
+  rotate: false
+  xy: 1204, 2
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+flatter_loadinger
+  rotate: false
+  xy: 603, 2
+  size: 599, 56
+  orig: 599, 56
+  offset: 0, 0
+  index: -1
+food 1
+  rotate: false
+  xy: 1312, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 2
+  rotate: false
+  xy: 1574, 407
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 3
+  rotate: false
+  xy: 2, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 4
+  rotate: false
+  xy: 264, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 5
+  rotate: false
+  xy: 526, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 6
+  rotate: false
+  xy: 788, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 7
+  rotate: false
+  xy: 1050, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 8
+  rotate: false
+  xy: 1312, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+food 9
+  rotate: false
+  xy: 1574, 669
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+icon_timer
+  rotate: false
+  xy: 1259, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+panel_timer
+  rotate: false
+  xy: 1349, 2
+  size: 405, 97
+  orig: 405, 97
+  offset: 0, 0
+  index: -1
+six_teeth
+  rotate: false
+  xy: 1756, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+three_points
+  rotate: false
+  xy: 2, 145
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1

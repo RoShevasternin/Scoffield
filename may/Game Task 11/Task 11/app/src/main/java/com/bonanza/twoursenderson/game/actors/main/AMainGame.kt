@@ -18,12 +18,8 @@ class AMainGame(override val screen: GameScreen): AdvancedMainGroup() {
         val region: TextureRegion,
     )
 
-    private val dataList by lazy { List(20) { index ->
-        Data(
-            if (index >= 10) index - 9 else index.inc(),
-            if (index >= 10) gdxGame.assetsAll.listItems[index - 10] else gdxGame.assetsAll.listItems[index]
-        )
-    } }
+    private val list10   by lazy { List(10) { index -> Data(index.inc(), gdxGame.assetsAll.listItems[index]) } }
+    private val dataList by lazy { list10 + list10 }
 
     private var firstOpenClose : WTF? = null
     private var secondOpenClose: WTF? = null

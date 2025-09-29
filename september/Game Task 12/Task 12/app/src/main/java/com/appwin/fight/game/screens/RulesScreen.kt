@@ -1,0 +1,28 @@
+package com.appwin.fight.game.screens
+
+import com.appwin.fight.game.actors.main.AMainRules
+import com.appwin.fight.game.utils.Block
+import com.appwin.fight.game.utils.advanced.AdvancedMainScreen
+import com.appwin.fight.game.utils.advanced.AdvancedStage
+import com.appwin.fight.game.utils.gdxGame
+import com.appwin.fight.game.utils.region
+
+class RulesScreen: AdvancedMainScreen() {
+
+    override val aMain = AMainRules(this)
+
+    override fun AdvancedStage.addActorsOnStageUI() {
+        setBackBackground(gdxGame.assetsAll.BACK2.region)
+        addMain()
+    }
+
+    override fun hideScreen(block: Block) {
+        aMain.animHideMain { block.invoke() }
+    }
+
+    // Actors UI------------------------------------------------------------------------
+
+    override fun AdvancedStage.addMain() {
+        addAndFillActor(aMain)
+    }
+}
