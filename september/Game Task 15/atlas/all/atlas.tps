@@ -124,7 +124,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../Task 12/app/src/main/assets/atlas/all.atlas</filename>
+                <filename>../../Task 15/app/src/main/assets/atlas/all.atlas</filename>
             </struct>
         </map>
         <key>multiPackMode</key>
@@ -173,7 +173,7 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">menu.png</key>
+            <key type="filename">frame.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -182,14 +182,16 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>138,192,276,383</rect>
+                <rect>106,106,213,213</rect>
                 <key>scale9Paddings</key>
-                <rect>138,192,276,383</rect>
+                <rect>106,106,213,213</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">next_def.png</key>
-            <key type="filename">next_press.png</key>
+            <key type="filename">mus_off.png</key>
+            <key type="filename">mus_on.png</key>
+            <key type="filename">sou_off.png</key>
+            <key type="filename">sou_on.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -198,56 +200,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>138,42,276,83</rect>
+                <rect>35,35,71,71</rect>
                 <key>scale9Paddings</key>
-                <rect>138,42,276,83</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">off.png</key>
-            <key type="filename">on.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>41,18,83,37</rect>
-                <key>scale9Paddings</key>
-                <rect>41,18,83,37</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">sett.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>197,162,393,323</rect>
-                <key>scale9Paddings</key>
-                <rect>197,162,393,323</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">x_def.png</key>
-            <key type="filename">x_press.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>28,29,55,57</rect>
-                <key>scale9Paddings</key>
-                <rect>28,29,55,57</rect>
+                <rect>35,35,71,71</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
