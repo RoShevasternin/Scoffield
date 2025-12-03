@@ -1,0 +1,5 @@
+alias: bredota56
+pass:  lokadrenty
+
+policy: ---
+terms: ---
