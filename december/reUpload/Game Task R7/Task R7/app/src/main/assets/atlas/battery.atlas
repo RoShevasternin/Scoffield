@@ -1,0 +1,40 @@
+battery.png
+size: 463, 1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 2
+  size: 459, 214
+  orig: 459, 214
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 2, 218
+  size: 206, 373
+  orig: 206, 373
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 593
+  size: 339, 138
+  orig: 339, 138
+  offset: 0, 0
+  index: -1
+progress_blue
+  rotate: false
+  xy: 2, 733
+  size: 339, 138
+  orig: 339, 138
+  offset: 0, 0
+  index: -1
+progress_orange
+  rotate: false
+  xy: 2, 873
+  size: 339, 138
+  orig: 339, 138
+  offset: 0, 0
+  index: -1

@@ -10,9 +10,10 @@ import kotlin.times
 
 class SoundUtil {
 
-    val click = AdvancedSound(SoundManager.EnumSound.click.data.sound, 0.55f)
-    val win   = AdvancedSound(SoundManager.EnumSound.win.data.sound, 0.85f)
-    val select = AdvancedSound(SoundManager.EnumSound.select.data.sound, 0.73f)
+    val click = AdvancedSound(SoundManager.EnumSound.click.data.sound, 0.95f)
+    val win   = AdvancedSound(SoundManager.EnumSound.win.data.sound, 0.8f)
+    val fail  = AdvancedSound(SoundManager.EnumSound.fail.data.sound, 0.8f)
+    val error  = AdvancedSound(SoundManager.EnumSound.error.data.sound, 0.8f)
 
     // 0..100
     var volumeLevel = AudioManager.volumeLevelPercent

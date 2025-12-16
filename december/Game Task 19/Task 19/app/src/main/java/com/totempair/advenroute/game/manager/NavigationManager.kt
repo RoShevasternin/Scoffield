@@ -5,6 +5,7 @@ import com.totempair.advenroute.game.screens.BackrScreen
 import com.totempair.advenroute.game.screens.IgraScreen
 import com.totempair.advenroute.game.screens.LoaderScreen
 import com.totempair.advenroute.game.screens.MenuScreen
+import com.totempair.advenroute.game.screens.ResultTryScreen
 import com.totempair.advenroute.game.screens.ResultWinScreen
 import com.totempair.advenroute.game.screens.RulesScreen
 import com.totempair.advenroute.game.utils.advanced.AdvancedScreen
@@ -40,6 +41,7 @@ class NavigationManager {
         RulesScreen  ::class.java.name -> RulesScreen()
         IgraScreen   ::class.java.name -> IgraScreen()
         ResultWinScreen ::class.java.name -> ResultWinScreen()
+        ResultTryScreen::class.java.name -> ResultTryScreen()
         BackrScreen::class.java.name -> BackrScreen()
 
         else -> MenuScreen()

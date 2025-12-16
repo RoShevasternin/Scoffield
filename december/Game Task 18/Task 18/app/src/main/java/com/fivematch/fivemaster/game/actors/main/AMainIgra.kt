@@ -6,10 +6,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image
 import com.badlogic.gdx.utils.Align
 import com.fivematch.fivemaster.game.actors.AToy
 import com.fivematch.fivemaster.game.actors.button.AButton
-import com.fivematch.fivemaster.game.actors.checkbox.ACheckBox
 import com.fivematch.fivemaster.game.screens.IgraScreen
 import com.fivematch.fivemaster.game.screens.ResultScreen
-import com.fivematch.fivemaster.game.screens.RulesScreen
 import com.fivematch.fivemaster.game.utils.Block
 import com.fivematch.fivemaster.game.utils.TIME_ANIM_SCREEN
 import com.fivematch.fivemaster.game.utils.actor.animDelay
@@ -19,30 +17,25 @@ import com.fivematch.fivemaster.game.utils.actor.disable
 import com.fivematch.fivemaster.game.utils.actor.enable
 import com.fivematch.fivemaster.game.utils.actor.setOnClickListener
 import com.fivematch.fivemaster.game.utils.advanced.AdvancedMainGroup
-import com.fivematch.fivemaster.game.utils.advanced.AdvancedStage
 import com.fivematch.fivemaster.game.utils.gdxGame
-import com.fivematch.fivemaster.game.utils.runGDX
-import kotlinx.coroutines.delay
 
 class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
 
-    private val imgText  = Image(gdxGame.assetsAll.pusik)
-    private val mus      = ACheckBox(screen, ACheckBox.Type.Mus)
-    private val listImg  = AButton(screen, AButton.Type.Back)
+    private val imgPan  = Image(gdxGame.assetsAll.pusik)
+    private val btnBack = AButton(screen, AButton.Type.Back)
 
-    private val toys1   = List(4) { AToy(screen, gdxGame.assetsAll.listToy[0]) }
-    private val toys2   = List(4) { AToy(screen, gdxGame.assetsAll.listToy[1]) }
-    private val toys3   = List(4) { AToy(screen, gdxGame.assetsAll.listToy[2]) }
-    private val toys4   = List(4) { AToy(screen, gdxGame.assetsAll.listToy[3]) }
-    private val toys5   = List(4) { AToy(screen, gdxGame.assetsAll.listToy[4]) }
+    private val toys1   = List(5) { AToy(screen, gdxGame.assetsAll.listToy[0]) }
+    private val toys2   = List(5) { AToy(screen, gdxGame.assetsAll.listToy[1]) }
+    private val toys3   = List(5) { AToy(screen, gdxGame.assetsAll.listToy[2]) }
+    private val toys4   = List(5) { AToy(screen, gdxGame.assetsAll.listToy[3]) }
+    private val toys5   = List(5) { AToy(screen, gdxGame.assetsAll.listToy[4]) }
     private val toysAll = (toys1 + toys2 + toys3 + toys4 + toys5).shuffled()
 
     override fun addActorsOnGroup() {
         color.a = 0f
 
-        addImgMenu()
-        addImages()
-        addMus()
+        addImgPan()
+        addBtnBack()
         addToys()
 
         animShowMain()
@@ -50,24 +43,15 @@ class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
 
     // Actors ------------------------------------------------------------------------
 
-    private fun addImgMenu() {
-        addActor(imgText)
-        imgText.setBounds(154f, 264f, 773f, 1391f)
+    private fun addImgPan() {
+        addActor(imgPan)
+        imgPan.setBounds(-99f, 94f, 1293f, 1293f)
     }
 
-    private fun addMus() {
-        addActor(mus)
-        mus.setBounds(426f, 1710f, 227f, 173f)
-        if (gdxGame.musicUtil.currentMusic?.isPlaying == false) mus.check()
-        mus.setOnCheckListener {
-            if (it) gdxGame.musicUtil.currentMusic?.pause() else gdxGame.musicUtil.currentMusic?.play()
-        }
-    }
-
-    private fun addImages() {
-        addActor(listImg)
-        listImg.setBounds(294f, 36f, 491f, 173f)
-        listImg.setOnClickListener(gdxGame.soundUtil) {
+    private fun addBtnBack() {
+        addActor(btnBack)
+        btnBack.setBounds(80f, 1750f, 90f, 90f)
+        btnBack.setOnClickListener(gdxGame.soundUtil) {
             screen.hideScreen {
                 gdxGame.navigationManager.back()
             }
@@ -75,8 +59,8 @@ class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
     }
 
     private fun addToys() {
-        var nx = 181f
-        var ny = 1378f
+        var nx = 147f
+        var ny = 1013f
 
         var counter = 0
 
@@ -88,11 +72,11 @@ class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
 
         toysAll.onEachIndexed { index, aToy ->
             addActor(aToy)
-            aToy.setBounds(nx, ny, 170f, 170f)
-            nx += 15f + 170f
-            if (index.inc() % 4 == 0) {
-                nx = 169f
-                ny -= 103f + 170f
+            aToy.setBounds(nx, ny, 160f, 160f)
+            nx += 0f + 160f
+            if (index.inc() % 5 == 0) {
+                nx = 147f
+                ny -= 16f + 160f
             }
             aToy.setOrigin(Align.center)
             aToy.setOnClickListener {
@@ -115,15 +99,15 @@ class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
                         toFront()
                         enable()
                     }
-                    toy2!!.apply {
+                    toy2.apply {
                         unselected()
                         toFront()
                         enable()
                     }
 
-                    tmpActions1 = Actions.moveTo(toy2!!.x, toy2!!.y, 0.4f)
+                    tmpActions1 = Actions.moveTo(toy2.x, toy2.y, 0.4f)
                     tmpActions2 = Actions.sequence(
-                        Actions.moveTo(toy1!!.x, toy1!!.y, 0.4f),
+                        Actions.moveTo(toy1.x, toy1.y, 0.4f),
                         Actions.run {
                             counter = 0
 
@@ -141,8 +125,8 @@ class AMainIgra(override val screen: IgraScreen): AdvancedMainGroup() {
                         }
                     )
 
-                    toy1!!.addAction(tmpActions1)
-                    toy2!!.addAction(tmpActions2)
+                    toy1.addAction(tmpActions1)
+                    toy2.addAction(tmpActions2)
 
                 }
             }

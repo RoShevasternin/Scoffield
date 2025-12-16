@@ -1,0 +1,40 @@
+clean.png
+size: 716, 2027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orb_dark
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+orb_def
+  rotate: false
+  xy: 41, 2
+  size: 673, 673
+  orig: 673, 673
+  offset: 0, 0
+  index: -1
+orb_finish
+  rotate: false
+  xy: 2, 677
+  size: 673, 673
+  orig: 673, 673
+  offset: 0, 0
+  index: -1
+orb_light
+  rotate: false
+  xy: 677, 677
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+orb_start
+  rotate: false
+  xy: 2, 1352
+  size: 673, 673
+  orig: 673, 673
+  offset: 0, 0
+  index: -1

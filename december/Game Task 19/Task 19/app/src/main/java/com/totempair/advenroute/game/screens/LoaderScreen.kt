@@ -109,7 +109,7 @@ class LoaderScreen : AdvancedScreen() {
                     if (progress % 50 == 0) log("progress = $progress%")
                     if (progress == 100) isFinishProgress = true
 
-                    delay((15..30).shuffled().first().toLong())
+                    //delay((15..30).shuffled().first().toLong())
                 }
             }
         }
@@ -129,7 +129,7 @@ class LoaderScreen : AdvancedScreen() {
 
         gdxGame.musicUtil.apply { currentMusic = MUZAKA.apply {
             isLooping = true
-            coff      = 0.33f
+            coff      = 0.35f
         } }
 
         hideScreen {

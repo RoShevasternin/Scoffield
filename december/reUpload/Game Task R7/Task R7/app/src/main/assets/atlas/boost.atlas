@@ -1,0 +1,47 @@
+boost.png
+size: 471, 1974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mask
+  rotate: false
+  xy: 2, 2
+  size: 467, 467
+  orig: 467, 467
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 2, 471
+  size: 467, 467
+  orig: 467, 467
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 2, 940
+  size: 467, 467
+  orig: 467, 467
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 2, 1409
+  size: 467, 467
+  orig: 467, 467
+  offset: 0, 0
+  index: -1
+star_big
+  rotate: false
+  xy: 2, 1878
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+star_mini
+  rotate: false
+  xy: 98, 1878
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

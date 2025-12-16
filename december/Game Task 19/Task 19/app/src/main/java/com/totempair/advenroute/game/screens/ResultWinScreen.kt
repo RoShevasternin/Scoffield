@@ -13,8 +13,8 @@ class ResultWinScreen: AdvancedMainScreen() {
     override val aMain = AMainResultWin(this)
 
     override fun AdvancedStage.addActorsOnStageUI() {
-        setBackBackground(gdxGame.assetsAll.BACK1.region)
-        addAndFillActor(Image(gdxGame.assetsAll.WIN))
+        setBackBackground(gdxGame.assetsAll.WIN.region)
+        //addAndFillActor(Image(gdxGame.assetsAll.WIN))
         addMain()
     }
 

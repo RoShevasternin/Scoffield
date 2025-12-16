@@ -56,7 +56,7 @@ class AMainResultWin(override val screen: ResultWinScreen): AdvancedMainGroup() 
                     image.setOnClickListener(gdxGame.soundUtil) {
                         screen.hideScreen {
                             gdxGame.navigationManager.clearBackStack()
-                            gdxGame.navigationManager.navigate(RulesScreen::class.java.name)
+                            gdxGame.navigationManager.navigate(RulesScreen::class.java.name, MenuScreen::class.java.name)
                         }
                     }
                 }

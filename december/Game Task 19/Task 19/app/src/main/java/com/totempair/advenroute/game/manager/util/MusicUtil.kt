@@ -15,7 +15,7 @@ class MusicUtil: Disposable {
 
     private val coroutine = CoroutineScope(Dispatchers.Default)
 
-    val MUZAKA by lazy { MusicManager.EnumMusic.Muscka.data.music }
+    val MUZAKA by lazy { MusicManager.EnumMusic.Dojara.data.music }
 
     // 0..100
     val volumeLevelFlow = MutableStateFlow(AudioManager.volumeLevelPercent)

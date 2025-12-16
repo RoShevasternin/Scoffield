@@ -17,7 +17,7 @@ class MusicManager(var assetManager: AssetManager) {
     }
 
     enum class EnumMusic(val data: MusicData) {
-        Muscka(MusicData("music/muska.mp3")),
+        Dojara(MusicData("music/jungle-forest-wildlife.mp3")),
     }
 
     data class MusicData(

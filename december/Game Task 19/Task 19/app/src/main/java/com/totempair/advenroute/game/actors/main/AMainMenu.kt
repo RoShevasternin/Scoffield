@@ -32,7 +32,7 @@ class AMainMenu(override val screen: MenuScreen): AdvancedMainGroup() {
         addMus()
         addSod()
 
-        val privacy = AButton(screen, AButton.Type.Select)
+        val privacy = AButton(screen, AButton.Type.Privacy)
         addActor(privacy)
         privacy.setBounds(308f, 111f, 465f, 158f)
         privacy.setOnClickListener {

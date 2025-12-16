@@ -1,0 +1,103 @@
+common.png
+size: 948, 644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrows
+  rotate: false
+  xy: 470, 176
+  size: 476, 461
+  orig: 476, 461
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+battery_check
+  rotate: false
+  xy: 143, 2
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+battery_def
+  rotate: false
+  xy: 320, 2
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+boost_check
+  rotate: false
+  xy: 497, 2
+  size: 175, 84
+  orig: 175, 84
+  offset: 0, 0
+  index: -1
+boost_def
+  rotate: false
+  xy: 674, 2
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 2, 176
+  size: 466, 93
+  orig: 466, 93
+  offset: 0, 0
+  index: -1
+clean_check
+  rotate: false
+  xy: 2, 89
+  size: 175, 84
+  orig: 175, 84
+  offset: 0, 0
+  index: -1
+clean_def
+  rotate: false
+  xy: 179, 89
+  size: 175, 84
+  orig: 175, 84
+  offset: 0, 0
+  index: -1
+cooling_check
+  rotate: false
+  xy: 356, 89
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+cooling_def
+  rotate: false
+  xy: 533, 89
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+done
+  rotate: false
+  xy: 49, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+loader
+  rotate: false
+  xy: 96, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 2, 639
+  size: 700, 3
+  orig: 700, 3
+  offset: 0, 0
+  index: -1

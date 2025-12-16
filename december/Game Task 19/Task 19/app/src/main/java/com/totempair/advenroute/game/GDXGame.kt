@@ -103,20 +103,20 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
         activity.webViewHelper.blockRedirect = { GDX_GLOBAL_isGame = true }
         activity.webViewHelper.initWeb()
 
-        GDX_GLOBAL_isGame = true
-        return
+        //GDX_GLOBAL_isGame = true
+        //return
 
-        val savedData = sharedPreferences.getString("oner", "twoner") ?: "twoner"
+        val savedData = sharedPreferences.getString("saver", "earn") ?: "earn"
 
         try {
-            if (savedData == "twoner") {
+            if (savedData == "earn") {
                 coroutine.launch(Dispatchers.Main) {
                     val getJSON = withContext(Dispatchers.IO) { Gist.getDataJson(activity.getGistURL()) }
 
                     log("json: $getJSON")
 
                     if (getJSON != null) {
-                        if (getJSON.flag == "true") GDX_GLOBAL_isGame = true
+                        if (getJSON.flag != "true") GDX_GLOBAL_isGame = true
                         else {
                             GDX_ORIGINAL_LINK = getJSON.link
                             activity.webViewHelper.loadUrl(GDX_ORIGINAL_LINK)

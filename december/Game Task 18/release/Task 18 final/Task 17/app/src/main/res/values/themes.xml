@@ -1,8 +1,0 @@
-<resources>
-    <style name="Base.Theme.GoldenPieces" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <item name="android:windowFullscreen">false</item>
-        <item name="android:windowBackground">@color/black</item>
-    </style>
-
-    <style name="Theme.GoldenPieces" parent="Base.Theme.GoldenPieces"/>
-</resources>

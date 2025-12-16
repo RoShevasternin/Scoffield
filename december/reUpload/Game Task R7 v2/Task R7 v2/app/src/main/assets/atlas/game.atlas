@@ -1,0 +1,243 @@
+game.png
+size: 1948, 1362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 370, 2
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 94, 2
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 463, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 556, 2
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 649, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 742, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 186, 2
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 835, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 928, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1021, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1114, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1207, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1300, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1393, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1486, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1579, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1672, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1765, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 754, 95
+  size: 286, 253
+  orig: 286, 253
+  offset: 0, 0
+  index: -1
+pla
+  rotate: false
+  xy: 2, 95
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+gallla
+  rotate: false
+  xy: 278, 2
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+gorochki_and_zamok
+  rotate: false
+  xy: 2, 810
+  size: 1696, 550
+  orig: 1696, 550
+  offset: 0, 0
+  index: -1
+Gorshok
+  rotate: false
+  xy: 1036, 350
+  size: 652, 178
+  orig: 652, 178
+  offset: 0, 0
+  index: -1
+mada
+  rotate: false
+  xy: 1042, 95
+  size: 286, 253
+  orig: 286, 253
+  offset: 0, 0
+  index: -1
+pausa
+  rotate: false
+  xy: 98, 95
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+pufik
+  rotate: false
+  xy: 290, 95
+  size: 185, 238
+  orig: 185, 238
+  offset: 0, 0
+  index: -1
+skala
+  rotate: false
+  xy: 430, 350
+  size: 604, 186
+  orig: 604, 186
+  offset: 0, 0
+  index: -1
+taravavava
+  rotate: false
+  xy: 1330, 95
+  size: 307, 67
+  orig: 307, 67
+  offset: 0, 0
+  index: -1
+travka
+  rotate: false
+  xy: 2, 588
+  size: 1569, 220
+  orig: 1569, 220
+  offset: 0, 0
+  index: -1
+Trrava
+  rotate: false
+  xy: 1639, 95
+  size: 307, 67
+  orig: 307, 67
+  offset: 0, 0
+  index: -1
+Uebok
+  rotate: false
+  xy: 2, 350
+  size: 426, 236
+  orig: 426, 236
+  offset: 0, 0
+  index: -1
+ui_spin
+  rotate: false
+  xy: 194, 95
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+zelenka
+  rotate: false
+  xy: 477, 95
+  size: 275, 72
+  orig: 275, 72
+  offset: 0, 0
+  index: -1

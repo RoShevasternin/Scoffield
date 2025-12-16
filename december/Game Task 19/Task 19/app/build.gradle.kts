@@ -21,12 +21,12 @@ android {
         resValue("string", "app_name", "Totem Pair Adventure")
         resValue(
             "string",
-            "ad45safe",
+            "puerto",
             "https://gist.githubusercontent.com/nikaapps13/2aa81291c9fc7bd7c3d4255485d69230/raw/18v1"
         )
         resValue(
             "string",
-            "pyrsc",
+            "ricco",
             "https://doc-hosting.flycricket.io/plinko-privacy-policy/bd58e0c9-119e-494e-a7ac-33444f1518fe/privacy"
         )
 
@@ -71,12 +71,12 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.17.0")
     implementation("androidx.appcompat:appcompat:1.7.1")
-    implementation("androidx.activity:activity-ktx:1.12.0")
+    implementation("androidx.activity:activity-ktx:1.12.1")
     implementation("androidx.constraintlayout:constraintlayout:2.2.1")
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.6")
     implementation("androidx.datastore:datastore-preferences:1.2.0")
 
-    val gdxVersion = "1.14.0"
+    val gdxVersion = "1.13.1"
     implementation("com.badlogicgames.gdx:gdx-backend-android:$gdxVersion")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a")

@@ -311,7 +311,7 @@ class WebViewHelper(val activity: MainActivity) {
                     activity.showWebView()
 
                     if (onceSaveLink.getAndSet(false)) {
-                        gdxGame.sharedPreferences.edit { putString("oner", url) }
+                        gdxGame.sharedPreferences.edit { putString("saver", url) }
                     }
                 }
             }

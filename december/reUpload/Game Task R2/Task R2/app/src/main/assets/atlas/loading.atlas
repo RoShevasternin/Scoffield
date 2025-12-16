@@ -1,0 +1,33 @@
+loading.png
+size: 1895, 1107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bik_bak
+  rotate: false
+  xy: 2, 2
+  size: 1040, 991
+  orig: 1040, 991
+  offset: 0, 0
+  index: -1
+lodrink
+  rotate: false
+  xy: 1044, 2
+  size: 192, 77
+  orig: 192, 77
+  offset: 0, 0
+  index: -1
+parigures
+  rotate: false
+  xy: 2, 995
+  size: 935, 87
+  orig: 935, 87
+  offset: 0, 0
+  index: -1
+samshit
+  rotate: false
+  xy: 939, 995
+  size: 954, 110
+  orig: 954, 110
+  offset: 0, 0
+  index: -1

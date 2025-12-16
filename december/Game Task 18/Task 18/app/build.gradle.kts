@@ -5,6 +5,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        create("release") {
+            storeFile = file("D:\\Scoffield\\december\\Game Task 18\\release\\fragolinka")
+            keyPassword = "ooiasenwbqd"
+            storePassword = "ooiasenwbqd"
+            keyAlias = "yaysdujwqeh"
+        }
+    }
     namespace = "com.fivematch.fivemaster"
     compileSdk = 36
 
@@ -42,6 +50,7 @@ android {
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {
@@ -76,7 +85,7 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.6")
     implementation("androidx.datastore:datastore-preferences:1.2.0")
 
-    val gdxVersion = "1.14.0"
+    val gdxVersion = "1.13.1"
     implementation("com.badlogicgames.gdx:gdx-backend-android:$gdxVersion")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a")
