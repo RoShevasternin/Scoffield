@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Chicken Run Road 100x"
+rootProject.name = "Parrot Dice Dash"
 include(":app")
  

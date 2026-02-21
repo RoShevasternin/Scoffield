@@ -1,0 +1,173 @@
+all.png
+size: 1801, 545
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 1481, 2
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1641, 2
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 162, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 322, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 482, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 642, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 802, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 962, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1122, 162
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 192, 2
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+btn_def
+  rotate: false
+  xy: 1282, 162
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+btn_press
+  rotate: false
+  xy: 1463, 162
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lbl_block
+  rotate: false
+  xy: 2, 343
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+lvl_item
+  rotate: false
+  xy: 183, 343
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+next_def
+  rotate: false
+  xy: 459, 2
+  size: 509, 144
+  orig: 509, 144
+  offset: 0, 0
+  index: -1
+next_press
+  rotate: false
+  xy: 970, 2
+  size: 509, 144
+  orig: 509, 144
+  offset: 0, 0
+  index: -1
+play_def
+  rotate: false
+  xy: 364, 343
+  size: 709, 200
+  orig: 709, 200
+  offset: 0, 0
+  index: -1
+play_press
+  rotate: false
+  xy: 1075, 343
+  size: 709, 200
+  orig: 709, 200
+  offset: 0, 0
+  index: -1
+record
+  rotate: false
+  xy: 269, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sett
+  rotate: false
+  xy: 367, 2
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+vibro_check
+  rotate: false
+  xy: 64, 2
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+vibro_def
+  rotate: false
+  xy: 128, 2
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1

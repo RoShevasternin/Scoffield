@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e152cff-de76-4b14-8e5e-2562de57b625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/util/WebViewHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/arm64-v8a/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/arm64-v8a/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/arm64-v8a/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/arm64-v8a/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/armeabi-v7a/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/armeabi-v7a/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/armeabi-v7a/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/armeabi-v7a/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86_64/libgdx-freetype.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86_64/libgdx-freetype.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86_64/libgdx.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/libs/x86_64/libgdx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/androidTest/java/com/chekrun/roadrunicen/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/androidTest/java/com/parrot/dicedash/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/atlas/all.atlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/atlas/all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/atlas/loader.atlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/atlas/loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/font/IBMPlexSansDevanagari-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/music/country.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/privacy_policy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/shader/defaultVS.glsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/shader/maskFS.glsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/sound/click.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/sound/fail.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/sound/touch.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/sound/win.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/background_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/background_game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/background_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/background_win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/chicken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/done.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/game_pan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/koki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/lose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/menu_pan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/all/rules.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/items/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/loader/background_loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/assets/textures/loader/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/StartActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/StartActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/GDXFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/GDXGame.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/AProgress.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/ATimer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/ATmpGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/button/AButton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/checkbox/ACheckBox.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/checkbox/ACheckBoxGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainLoader.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainMenu.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainPuzzle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainResultDone.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainResultFail.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/main/AMainRules.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/puzzle/APuzzle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/puzzle/APuzzlePanel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/actors/shader/AMaskGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/dataStore/DS_LevelData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/dataStore/DS_TestJson.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/dataStore/DataStoreJsonUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/dataStore/DataStoreUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/AudioManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/DataStoreManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/MusicManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/NavigationManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/SoundManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/SpriteManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/util/MusicUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/util/SoundUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/manager/util/SpriteUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/LoaderScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/MenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/PuzzleScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/ResultDoneScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/ResultFailScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/screens/RulesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/Completer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/Constants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/GameColor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/ShapeDrawerUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/SizeScaler.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/Util.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/actor/util.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedFBOGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedGame.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedInputProcessor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedMainGroup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedMainScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/advanced/AdvancedStage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/font/FontGenerator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/font/FontParameter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/puzzle/NumberPuzzles.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/puzzle/PuzzleState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/game/utils/puzzle/Puzzles.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/util/Gist.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/util/KeyboardHeightListener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/util/OneTime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/util/OneTime.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/util/WebViewHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/chekrun/roadrunicen/util/util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/java/com/parrot/dicedash/util/util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-hdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-mdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/launcher/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/test/java/com/chekrun/roadrunicen/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/app/src/test/java/com/parrot/dicedash/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/Task 1/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/atlas.tps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/med.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/mep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/mp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/nd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/np.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/pld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/plp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/prd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/prp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/rld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/rlp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/sd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/sp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/timer_pan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/xd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/all/xp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/loader/atlas.tps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/loader/load_pan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/loader/loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/loader/loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2026/february/Game Task 1/atlas/loader/loading.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39nqBZMBYzHt9RNquUryw7Ljijm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Scoffield/2025/december/Game Task 19/Task 19/app"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e152cff-de76-4b14-8e5e-2562de57b625" name="Changes" comment="" />
+      <created>1771342048146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771342048146</updated>
+    </task>
+    <servers />
+  </component>
+</project>

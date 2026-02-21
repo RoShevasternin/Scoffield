@@ -5,25 +5,20 @@ plugins {
 }
 
 android {
-    namespace = "com.chekrun.roadrunicen"
+    namespace = "com.parrot.dicedash"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.chekrun.roadrunicen"
+        applicationId = "com.parrot.dicedash"
         minSdk = 24
         targetSdk = 36
-        versionCode = 2
-        versionName = "1.0.2"
+        versionCode = 1
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         setProperty("archivesBaseName", "$applicationId-v$versionCode($versionName)")
-        resValue("string", "app_name", "Eggsact Match")
-        resValue(
-            "string",
-            "string_def",
-            "https://gist.githubusercontent.com/mohsinworks1122-code/5a570276f95b4ed4fcb7051a4799cc08/raw/gistfile1.txt"
-        )
+        resValue("string", "app_name", "Parrot Dice Dash")
     }
 
     buildTypes {
@@ -65,12 +60,12 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.17.0")
     implementation("androidx.appcompat:appcompat:1.7.1")
-    implementation("androidx.activity:activity-ktx:1.12.2")
+    implementation("androidx.activity:activity-ktx:1.12.4")
     implementation("androidx.constraintlayout:constraintlayout:2.2.1")
-    implementation("androidx.navigation:navigation-fragment-ktx:2.9.6")
+    implementation("androidx.navigation:navigation-fragment-ktx:2.9.7")
     implementation("androidx.datastore:datastore-preferences:1.2.0")
 
-    val gdxVersion = "1.13.1"
+    val gdxVersion = "1.14.0"
     implementation("com.badlogicgames.gdx:gdx-backend-android:$gdxVersion")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a")
     natives("com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a")
@@ -84,7 +79,7 @@ dependencies {
 
     implementation("space.earlygrey:shapedrawer:2.6.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.10.0")
 }
 
 tasks.register("copyAndroidNatives") {

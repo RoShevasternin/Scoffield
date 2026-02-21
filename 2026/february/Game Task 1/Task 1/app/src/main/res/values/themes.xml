@@ -1,8 +1,8 @@
 <resources>
-    <style name="Base.Theme.ChickenRunRoad100x" parent="Theme.AppCompat.NoActionBar">
+    <style name="Base.Theme.Parrot" parent="Theme.AppCompat.NoActionBar">
         <item name="android:windowFullscreen">false</item>
         <item name="android:windowBackground">@color/black</item>
     </style>
 
-    <style name="Theme.ChickenRunRoad100x" parent="Base.Theme.ChickenRunRoad100x"/>
+    <style name="Theme.Parrot" parent="Base.Theme.Parrot"/>
 </resources>

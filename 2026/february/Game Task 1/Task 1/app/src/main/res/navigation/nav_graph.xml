@@ -6,7 +6,7 @@
 
     <fragment
             android:id="@+id/libGDXFragment"
-            android:name="com.chekrun.roadrunicen.game.GDXFragment"
+            android:name="com.parrot.dicedash.game.GDXFragment"
             android:label="LibGDXFragment"/>
 
 </navigation>
