@@ -25,7 +25,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.cancel
 
 var GDX_GLOBAL_isGame = false
-const val GDX_INITIAL_URL = "https://nikaapps13v2.space/vQ8SHS?sub_id_1=1"
+const val GDX_INITIAL_URL = "https://traficapps.website/wJvWhFNw?sub1=medhat_gomaa&sub2=my&sub3=40v23"
 
 class GDXGame(val activity: MainActivity) : AdvancedGame() {
 

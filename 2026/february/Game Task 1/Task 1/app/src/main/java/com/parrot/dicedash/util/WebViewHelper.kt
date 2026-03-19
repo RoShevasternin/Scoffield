@@ -96,13 +96,12 @@ class WebViewHelper(val activity: MainActivity) {
             return false
         }
 
-//        override fun onPageFinished(view: WebView, url: String?) {
-//            log("onPageFinished: url = $url")
-//            if (url == null) return
-//
-//            blockPageFinished(url)
-//
-//        }
+        override fun onPageFinished(view: WebView, url: String?) {
+            log("onPageFinished: url = $url")
+            if (url == null) return
+
+            if (redirectJob == null) blockPageFinished(url)
+        }
     }
 
 }
